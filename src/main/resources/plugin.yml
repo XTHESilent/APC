@@ -1,7 +1,7 @@
 name: APC
-description: ${project.description}
-version: ${project.version}
-main: ${main.class}
+description: A simple plugin to manage chat with LuckPerms!
+version: 1.0
+main: com.xthesilent.apc.APC
 author: XTHESilent
 api-version: 1.13
 depend: [AquaPerms]
