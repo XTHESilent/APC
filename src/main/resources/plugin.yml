@@ -1,0 +1,13 @@
+name: APC
+description: ${project.description}
+version: ${project.version}
+main: ${main.class}
+author: XTHESilent
+api-version: 1.13
+depend: [AquaPerms]
+softdepend: [PlaceholderAPI]
+commands:
+  apc:
+    description: Reload the configuration.
+    permission: apc.reload
+    usage: "Usage: /apc reload"
